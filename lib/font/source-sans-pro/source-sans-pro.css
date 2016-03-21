@@ -37,3 +37,23 @@
     font-weight: 600;
     font-style: italic;
 }
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('SourceSansPro-Black.eot');
+    src: url('SourceSansPro-Black.eot?#iefix') format('embedded-opentype'),
+         url('SourceSansPro-Black.woff') format('woff'),
+         url('SourceSansPro-Black.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('SourceSansPro-BlackIt.eot');
+    src: url('SourceSansPro-BlackIt.eot?#iefix') format('embedded-opentype'),
+         url('SourceSansPro-BlackIt.woff') format('woff'),
+         url('SourceSansPro-BlackIt.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
